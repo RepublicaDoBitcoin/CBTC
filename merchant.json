@@ -2,13 +2,43 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.7 375dc00a",
   "osm3s": {
-    "timestamp_osm_base": "2025-07-22T21:16:41Z",
-    "timestamp_areas_base": "2025-07-22T15:36:45Z",
+    "timestamp_osm_base": "2025-07-25T12:42:36Z",
+    "timestamp_areas_base": "2025-07-25T05:51:30Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
 
-
+{
+  "type": "node",
+  "id": 12861817280,
+  "lat": -20.3852209,
+  "lon": -43.5051475,
+  "tags": {
+    "CBTC": "RepublicaDoBitcoin",
+    "OBTC": "UAIBIT",
+    "addr:city": "Ouro Preto",
+    "addr:housenumber": "160",
+    "addr:postcode": "35400078",
+    "addr:street": "Rua Conde de Bobadela",
+    "addr:suburb": "Centro",
+    "amenity": "restaurant",
+    "cuisine": "burger;sandwich;barbecue;portuguese;grill",
+    "currency:XBT": "yes",
+    "description": "Pub cervejeiro, restaurante, steakhouse e locação para eventos corporativos. Consulte sobre as datas e horarios em epocas  festivas.",
+    "diet:meat": "yes",
+    "diet:non-vegetarian": "yes",
+    "name": "República Cervejeira",
+    "opening_hours": "Mo-Su 18:00-00:00",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "payment:lightning": "yes",
+    "payment:lightning_contactless": "yes",
+    "phone": "31999996198",
+    "survey:date": "2025-06-25",
+    "website": "https://republicacervejeira.com.br/"
+  }
+}
 
   ]
 }
